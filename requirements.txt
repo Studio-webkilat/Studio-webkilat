@@ -1,0 +1,6 @@
+# Studio Web Kilat - Python Requirements
+# Install semua: pip install -r requirements.txt
+
+Flask==3.0.3
+Flask-CORS==4.0.1
+gunicorn==22.0.0
