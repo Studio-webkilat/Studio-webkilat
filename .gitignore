@@ -1,0 +1,20 @@
+# Studio Web Kilat -.gitignore v1.0
+
+# Node.js / TypeScript
+node_modules/
+dist/
+*.js.map
+.env
+
+# Python / Flask 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd 
+venv/
+.env
+
+# Sistem & Editor
+.DS_Store
+.vscode/
+.idea/
