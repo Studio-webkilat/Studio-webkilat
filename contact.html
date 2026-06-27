@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Studio Web Kilat</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .contact-wrap {
+      max-width: 700px;
+      margin: 80px auto;
+      padding: 0 5%;
+    }
+    .contact-card {
+      background: #2A2A2A;
+      padding: 40px;
+      border-radius: 20px;
+      border: 2px solid #F72585;
+    }
+    .contact-card input, .contact-card textarea {
+      width: 100%;
+      padding: 15px;
+      margin-bottom: 15px;
+      background: #1A1A1A;
+      border: 1px solid #333;
+      border-radius: 10px;
+      color: #FFF;
+      font-family: 'Poppins', sans-serif;
+      font-size: 1rem;
+    }
+    .contact-card input:focus, .contact-card textarea:focus {
+      outline: none;
+      border-color: #F72585;
+    }
+    .contact-info {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .contact-info a {
+      color: #F72585;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAVBAR SAMA KAYA INDEX -->
+  <header class="navbar">
+    <div class="logo">STUDIO WEB KILAT ⚡</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="contact.html" class="active">Contact</a>
+    </nav>
+    <input type="search" placeholder="Cari...">
+  </header>
+
+  <!-- CONTACT SECTION -->
+  <section class="hero" style="min-height: 40vh; background: linear-gradient(135deg, #F72585 0%, #7209B7 100%);">
+    <h1>Hubungi Kami</h1>
+    <p>Konsultasi Gratis. Respon < 1 Jam.</p>
+  </section>
+
+  <section class="contact-wrap">
+    <div class="contact-card">
+      <h2 style="color: #F72585; margin-bottom: 20px;">Kirim Pesan Kilat</h2>
+      
+      <!-- FORM LANGSUNG KE WA -->
+      <form action="https://wa.me/6282195168107" method="get" target="_blank">
+        <input type="text" name="nama" placeholder="Nama Anda" required>
+        <input type="text" name="brand" placeholder="Nama Brand/Bisnis Anda" required>
+        <textarea name="pesan" rows="4" placeholder="Mau bikin website apa? Tulis disini..." required></textarea>
+        <button type="submit" class="btn" style="width: 100%; border: none; cursor: pointer;">Chat via WhatsApp →</button>
+      </form>
+
+      <div class="contact-info">
+        <p style="margin-top: 30px; opacity: 0.8;">Atau chat langsung:</p>
+        <a href="https://wa.me/6282195168107">📱 0821-9516-8107</a>
+        <p style="margin-top: 15px; opacity: 0.7;">Base: Palangkaraya, Kalimantan Tengah</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="main.js"></script>
+</body>
+</html>
