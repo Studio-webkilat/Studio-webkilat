@@ -1,16 +1,25 @@
-## Hi there 👋
+# Studio Web Kilat ⚡
 
-<!--
-**Studio-webkilat/Studio-webkilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Website 3 Brand. 1 Repo. Gratis di GitHub.**  
+> Desain Pink Geometric Modern untuk UMKM, Klinik, & Agency.
+> Dibuat oleh: Trimo Wawan
 
-Here are some ideas to get you started:
+![Preview](https://placehold.co/1200x600/F72585/FFFFFF?text=Studio+Web+Kilat+Geometric)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Demo Live
+**Link**: https://trimowawan.github.io/studio-web-kilat 
+> Ganti `trimowawan` dengan username GitHub Anda setelah upload.
+
+---
+
+### 🎯 Apa Ini?
+Monorepo portofolio berisi 3 template website premium. Tujuannya: Bikin Anda keliatan kayak `Software House`, bukan freelancer biasa.
+
+**3 Brand yang Siap Pakai:**
+1.  **UMKM Tropical** | Pink Emas + Sunset. Untuk F&B, Fashion, Skincare.
+2.  **Klinik Minimal** | Pink Soft + Putih. Untuk Dokter, Klinik, Medis. 
+3.  **Agency Luxury** | Magenta Metalik + Hitam. Untuk Corporate & Brand Besar.
+
+---
+
+### 📦 Isi Repo - 15 File Pro
