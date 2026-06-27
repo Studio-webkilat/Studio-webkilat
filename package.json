@@ -1,0 +1,25 @@
+{
+  "name": "studio-webkilat-backend",
+  "version": "1.0.0",
+  "description": "Backend API Studio Web Kilat by Trimo Wawan",
+  "main": "typescript.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn typescript.ts",
+    "start": "node typescript.js",
+    "build": "tsc"
+  },
+  "keywords": ["studio web kilat", "api", "express", "trimo wawan"],
+  "author": "Trimo Wawan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "ts-node-dev": "^2.0.0",
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "@types/node": "^20.12.12"
+  }
+}
